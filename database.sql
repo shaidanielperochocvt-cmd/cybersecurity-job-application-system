@@ -1,9 +1,10 @@
 -- Cybersecurity Job Application PDO project
 -- Import this file using phpMyAdmin or the MySQL command line.
-CREATE DATABASE IF NOT EXISTS russian_grocery_db
+CREATE DATABASE IF NOT EXISTS cybersecurity_job_system_xss_demo
     CHARACTER SET utf8mb4
     COLLATE utf8mb4_unicode_ci;
-USE russian_grocery_db;
+
+USE cybersecurity_job_system_xss_demo;
 
 -- USER ENTITY: one user can create/update many parent and child records.
 CREATE TABLE IF NOT EXISTS users (
