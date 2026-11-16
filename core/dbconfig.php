@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost';
-$dbname = 'cybersecurity_job_system_xss_demo';
+$dbname = 'cybersecurity_job_system';
 $username = 'root';
 $password = '';
 
